@@ -39,7 +39,8 @@ const int M1_HEATING_GEN2 = 10050;		//240721 렌즈에 꼬리 ,강민우선임 ,차트 9개 0
 
 static int LGIT_MODEL_INDEX = M1_TANGERINE_5M;
 //-----------------------------------------------------------------------------------------------------------------------------------
-#define					VER_STR		"250407_1"				//git UpDate Lim
+#define					VER_STR		"250407_1"				//git
+//#define					VER_STR		"250407_1"				//git UpDate Lim 
 //#define					VER_STR		"250404_3"				// DMS Value 안에 DPS OnOff 함수로 값 조절.
 //#define					VER_STR		"250404_2"				//g_motorStop;
 //#define					VER_STR		"250404_1"				//
